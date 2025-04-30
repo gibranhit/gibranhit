@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Gibran Reyes
 
-<!--
-**gibranhit/gibranhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Senior Android Engineer | Kotlin Multiplatform Enthusiast
 
-Here are some ideas to get you started:
+🚀 Apasionado por crear soluciones móviles escalables y eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+- Kotlin, Java, Jetpack Compose
+- MVVM, Clean Architecture
+- Room, Retrofit, Hilt
+- Git, CI/CD, Firebase
+
+## 📈 Estadísticas de GitHub
+![Gibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=gibranhit&show_icons=true&theme=radical)
+
+## 🏆 Trofeos
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=gibranhit&theme=onedark)
+
+## 📫 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gibranhit/)
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-2196F3?style=flat&logo=google-chrome&logoColor=white)](https://profilegibran.onrender.com/)
