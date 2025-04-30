@@ -17,5 +17,5 @@
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=gibranhit&theme=onedark)
 
 ## 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gibranhit/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gibran-reyes-429992171/)
 [![Sitio Web](https://img.shields.io/badge/Sitio_Web-2196F3?style=flat&logo=google-chrome&logoColor=white)](https://profilegibran.onrender.com/)
